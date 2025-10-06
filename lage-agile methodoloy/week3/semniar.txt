@@ -1,0 +1,62 @@
+write down three challengaes team migth face when performing spirnt planning?
+
+*select hight priory requment like
+* product owner pick lots requiremnet as thats effect budget like 3 developers.
+*strategic aligment: we have fixed time so when assign without depent on team member reousce
+Risk Management: Addressing critical issues early prevents larger problems later. 
+limited time : so cant use large resource 
+
+*when assign the task when not cosidor when assign task affect sprint time limit
+write down three actions you might take to mitigate these challenged
+
+*proud owner reduce resouce but like take two developer with high telent
+*reduse disk : assign task consitor with good team member capacity
+risk managemnet ;put daily stantup meeting what done before , what the thing effect our project 
+dissucss aobut it to remove
+
+
+
+
+
+
+
+
+
+A retrospective is an opportunity to learn and improve at the end of
+each sprint
+- Activities
+- Each team member writes down three things that went well during
+the sprint
+	* Understand what we done in this sprint,Dissuss what are the technical we used.
+	*how to improve feature in with current sprint
+	*disscucss how to another way to done easliy
+
+- Each team member writes down three areas for improvement
+(things the team could do better)
+	*techinical thing : analaize server side (analize the resposive time , decide to buy 
+	large capactiy 
+	
+	* analize about framework which faster when working depent project
+					(depent page style , reduce overloading page)
+- Team members share their writings. Team discussion should look
+for consensus and decide on three areas of improvement for the
+next sprint
+- Write down...
+- Three potential challenges teams have when running
+retrospectives
+- Three actions you might take to mitigate those challenges
+- Discuss your answers with the person sitting next to you
+
+
+
+
+
+
+
+
+
+
+
+
+
+
